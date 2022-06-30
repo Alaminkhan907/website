@@ -1,0 +1,114 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    font-family: 'Inter', sans-serif;
+}
+.half-div{
+    width:40%;
+    float:left;
+    margin:2%;
+    padding:2%;
+}
+.half-div p{
+    padding-top: 2%;
+}
+.half-div h1{
+    color: #061BD9;
+    font-size:3.6rem;
+}
+#developer{
+color: #FF9417;
+}
+
+.half-div img{
+    width:70%;
+    margin-left: 30%;
+}
+.btn-div{
+    margin-top: 15%;
+}
+.btn-contract{
+    padding-left: 10%;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+/* first page done */
+.section{
+    float:left;
+    margin:10%;
+}
+.section-heading{
+    text-align: center;
+}
+.skill-div{
+    width:25%;
+    float:left;
+    margin:4%;
+    background-color: aliceblue;
+    text-align: center;
+}
+/*third section*/
+.section-heading-2{
+    text-align: center;
+}
+.project-div{
+    width:25%;
+    float:left;
+    margin:4%;
+    padding:1%;
+}
+.see-more{
+    text-align: center;
+}
+/*fourth section*/
+.service-div{
+    text-align: center;
+    margin-top: 5%;
+    width:45%;
+    float:left;
+    margin-left: 2.5%;
+}
+/*fifth section*/
+.section-heading-3{
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.details-div{
+    width:30%;
+    float:left;
+    margin-left: 3%;
+    text-align: center;
+}
+.input-div{
+    margin-top: 20%;
+}
+.contract{
+    margin:10%;
+    
+}
+.input-div{
+    width:100%;
+    height:300px;
+    text-align: center;
+}
+.name{
+    width:45%;
+    margin-left:2.5%;
+}
+.email{
+    width:45%;
+    margin-left:2.5%;
+}
+.message{
+    margin-top:1%;
+    width:92.5%;
+    height:80%;
+    margin-left:2.5%;
+    margin-bottom: 3%;
+}
